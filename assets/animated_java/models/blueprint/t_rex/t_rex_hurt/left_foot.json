@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/t_rex/left_foot",
+	"textures": {
+		"0": "animated_java:blueprint/t_rex/t_rex_hurt"
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"t_rex": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/t_rex/body.json",
+				"assets/animated_java/items/blueprint/t_rex/cube1.json",
+				"assets/animated_java/items/blueprint/t_rex/cube2.json",
+				"assets/animated_java/items/blueprint/t_rex/cube3.json",
+				"assets/animated_java/items/blueprint/t_rex/cube4.json",
+				"assets/animated_java/items/blueprint/t_rex/head.json",
+				"assets/animated_java/items/blueprint/t_rex/left_foot.json",
+				"assets/animated_java/items/blueprint/t_rex/right_foot.json",
+				"assets/animated_java/items/blueprint/t_rex/tail.json",
+				"assets/animated_java/models/blueprint/t_rex/body.json",
+				"assets/animated_java/models/blueprint/t_rex/cube1.json",
+				"assets/animated_java/models/blueprint/t_rex/cube2.json",
+				"assets/animated_java/models/blueprint/t_rex/cube3.json",
+				"assets/animated_java/models/blueprint/t_rex/cube4.json",
+				"assets/animated_java/models/blueprint/t_rex/head.json",
+				"assets/animated_java/models/blueprint/t_rex/left_foot.json",
+				"assets/animated_java/models/blueprint/t_rex/right_foot.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/body.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/cube1.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/cube2.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/cube3.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/cube4.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/head.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/left_foot.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/right_foot.json",
+				"assets/animated_java/models/blueprint/t_rex/t_rex_hurt/tail.json",
+				"assets/animated_java/models/blueprint/t_rex/tail.json",
+				"assets/animated_java/textures/blueprint/t_rex/t_rex.png",
+				"assets/animated_java/textures/blueprint/t_rex/t_rex_hurt.png"
+			]
+		}
+	}
+}
