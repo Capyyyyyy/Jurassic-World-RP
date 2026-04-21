@@ -1,6 +1,10 @@
 {
 	"sources": [
 		{
+			"type": "single",
+			"resource": "entity/chest/normal"
+		},
+		{
 			"type": "directory",
 			"source": "blueprint",
 			"prefix": "blueprint/"

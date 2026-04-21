@@ -1,0 +1,28 @@
+{
+	"textures": {
+		"0": "jurassic:item/gui/teat",
+		"particle": "jurassic:item/gui/teat"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [1, 0, 1, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 1, 16], "texture": "#0"},
+				"up": {"uv": [0, 1, 16, 1], "texture": "#0"},
+				"down": {"uv": [0, 1, 16, 1], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [18.25, -18, 0],
+			"scale": [3.525, 3.5, 3.125]
+		}
+	}
+}

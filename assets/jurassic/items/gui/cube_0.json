@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "jurassic:item/gui/cube_0"
+    },
+    "oversized_in_gui": true
+}

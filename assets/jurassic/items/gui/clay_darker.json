@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "model",
+        "model": "jurassic:item/gui/clay_darker"
+    },
+    "oversized_in_gui": true
+}

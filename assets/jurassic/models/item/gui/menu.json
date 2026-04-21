@@ -1,0 +1,6 @@
+{
+  "parent": "jurassic:item/gui/overlay",
+  "textures": {
+    "texture": "jurassic:item/menu"
+  }
+}
